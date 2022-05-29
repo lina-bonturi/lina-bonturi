@@ -1,6 +1,6 @@
 ## Hi there 🙋🏽‍♀️
 
-- Lead software engineer at Nubank <a href="[http://www.unb.br](https://nubank.com.br/en/)">Nubank</a>.
+- Lead software engineer at <a href="https://nubank.com.br/en/">Nubank</a>.
 - I work with mobile development for at least 8 years, standing out with 🍎 iOS (mostly Swift).
 
 ```swift
